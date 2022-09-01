@@ -1,0 +1,6 @@
+print hello 
+whoami
+ls
+exit
+
+
